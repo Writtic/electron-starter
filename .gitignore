@@ -69,8 +69,3 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
-
-### electron ###
-
-# node_modules
-node_modules/
